@@ -1,0 +1,189 @@
+{
+    "https://www.ibm.com/products/watsonx-ai/foundation-models": {
+        "url": "https://www.ibm.com/products/watsonx-ai/foundation-models",
+        "questions": [
+            "What is the purpose of the foundation models library on Watsonx platform?",
+            "Name the four models in the granite series.",
+            "Can you elaborate on the Trusted aspect of IBM's approach to delivering enterprise-grade foundation models?",
+            "What are the key features of the granite models?",
+            "What is the full form of LLM?",
+            "What is the input and output context length of the slate-125m-english-rtrvr model?",
+            "What is the price per million tokens for the llama-3-405b-instruct model?",
+            "What are the new strategic partnerships announced by IBM?",
+            "How does IBM ensure intellectual property protection for AI models?",
+            "What are the benefits of using Granite models?"
+        ],
+        "relevant_links": [
+            {
+                "url": "https://www.ibm.com/watsonx"
+            },
+            {
+                "url": "https://www.ibm.com/watsonx/pricing"
+            },
+            {
+                "url": "https://www.ibm.com/watsonx/resources/client-quotes"
+            },
+            {
+                "url": "https://www.ibm.com/granite"
+            },
+            {
+                "url": "https://www.ibm.com/products/watsonx-ai"
+            }
+        ]
+    },
+    "https://www.ibm.com/account/reg/signup?formid=urx-52761": {
+        "url": "https://www.ibm.com/account/reg/signup?formid=urx-52761",
+        "questions": [
+            "What is watsonx?",
+            "What are the three core components of watsonx?",
+            "What are the benefits of using watsonx?",
+            "What is generative AI?",
+            "What are the use cases of watsonx?",
+            "How can I get started with watsonx?",
+            "Who can use watsonx?",
+            "What are AI assistants?",
+            "What are the four AI assistants available in watsonx?",
+            "What is the purpose of the IBM Granite family of AI models?"
+        ],
+        "relevant_links": [
+            {
+                "url": "https://www.ibm.com/watsonx/partners"
+            },
+            {
+                "url": "https://www.ibm.com/watsonx/pricing"
+            },
+            {
+                "url": "https://www.ibm.com/account/reg/signup?formid=urx-52761"
+            }
+        ]
+    },
+    "https://www.ibm.com/products/watsonx-ai": {
+        "url": "https://www.ibm.com/products/watsonx-ai",
+        "questions": [
+            "What is offered in the watsonx.ai demo?",
+            "What is a benefit of choosing watsonx.ai?",
+            "What can you do in the prompt lab?",
+            "What is the flows engine?",
+            "What kind of AI capabilities are offered?",
+            "What are some of the use cases for generative AI?",
+            "What kind of foundation models are available?",
+            "What are some examples of how clients are using watsonx.ai?",
+            "Who are some partners in the watsonx.ai ecosystem?",
+            "What is an advantage of using watsonx.ai for healthcare?"
+        ],
+        "relevant_links": [
+            {
+                "url": "https://www.ibm.com/watsonx"
+            },
+            {
+                "url": "https://www.ibm.com/products/watsonx-ai/foundation-models"
+            },
+            {
+                "url": "https://www.ibm.com/watsonx/partners"
+            },
+            {
+                "url": "https://www.ibm.com/watsonx/pricing"
+            },
+            {
+                "url": "https://www.ibm.com/watsonx/resources/client-quotes"
+            }
+        ]
+    },
+    "https://www.ibm.com/products/watsonx-ai/foundation-models#generative": {
+        "url": "https://www.ibm.com/products/watsonx-ai/foundation-models#generative",
+        "questions": [
+            "What is watsonx used for?",
+            "How much does the Essentials tier cost?",
+            "What is included in the Standard tier?",
+            "What is the cost of the Enterprise tier?",
+            "What is the Resource Unit pricing?",
+            "What does Global Explanation do?",
+            "What is the difference between SaaS and software tiers?",
+            "What is included in the watsonx.ai software tier?",
+            "What is the pricing for watsonx.data software?",
+            "What is the maximum number of Resource Units allowed in the Evaluation tier?"
+        ],
+        "relevant_links": [
+            {
+                "url": "https://www.ibm.com/watsonx/pricing#software"
+            },
+            {
+                "url": "https://www.ibm.com/docs/en/watsonx/watsonxdata/1.1.x?topic=planning-licenses-entitlements"
+            },
+            {
+                "url": "https://www.ibm.com/products/watsonx-ai/foundation-models#generative"
+            }
+        ]
+    },
+    "https://www.ibm.com/support/customer/csol/terms/?id=i126-6883&lc=en#detail-document": {
+        "url": "https://www.ibm.com/support/customer/csol/terms/?id=i126-6883&lc=en#detail-document",
+        "questions": [
+            "What is Granite?",
+            "Is Granite open source?",
+            "Where can I find Granite models?",
+            "What are the benefits of using Granite?",
+            "What types of Granite models are available?",
+            "How does Granite ensure data transparency?",
+            "What recognition has Granite received?",
+            "Does IBM offer indemnification for Granite models?",
+            "How can I get started with Granite?",
+            "What is the purpose of AI assistants built with Granite?"
+        ],
+        "relevant_links": [
+            {
+                "url": "https://www.ibm.com/products/watsonx-ai"
+            },
+            {
+                "url": "https://www.ibm.com/support/customer/csol/terms/?id=i126-6883&lc=en#detail-document"
+            }
+        ]
+    },
+    "https://www.ibm.com/watsonx/resources/client-quotes": {
+        "url": "https://www.ibm.com/watsonx/resources/client-quotes",
+        "questions": [
+            "What is IBM Watsonx?",
+            "Which company uses IBM Watsonx to make home buying easier?",
+            "What is the benefit of IBM Watsonx for Truist?",
+            "What does Richard Rodriguez of Mercado Latino say about IBM Watsonx?",
+            "Who is behind the AI and data platform that FYI is using to improve the productivity of their Web 3.0 messenger app?",
+            "Is IBM Watsonx being used for the field of generative AI and foundation models?",
+            "Which tennis tournament is using IBM Watsonx to enhance the digital experience?",
+            "How is Sicredi using IBM Watsonx?",
+            "Which company is using IBM Watsonx.ai for improved customer service?",
+            "What is J. Wallquist's opinion on the collaboration with IBM and Watsonx?"
+        ],
+        "relevant_links": [
+            {
+                "url": "https://www.ibm.com/watsonx"
+            },
+            {
+                "url": "https://www.ibm.com/ai-assistants"
+            },
+            {
+                "url": "https://www.ibm.com/products/watson-discovery"
+            },
+            {
+                "url": "https://www.ibm.com/products/expertlabs"
+            },
+            {
+                "url": "https://www.ibm.com/products/robotic-process-automation"
+            }
+        ]
+    },
+    "https://www.ibm.com/watsonx": {
+        "url": "https://www.ibm.com/watsonx",
+        "questions": [
+            "What is the purpose of partnering with watsonx?",
+            "How can I extend capabilities of commercial applications?",
+            "What is the benefit of using Anaconda with watsonx.ai?",
+            "How does the partnership with AWS help AI workloads?",
+            "What is the advantage of using Cloudera with watsonx.data?",
+            "How does Vector Search assist in contextual data?",
+            "What is the role of Hugging Face and watsonx?",
+            "How does LangChain simplify AI model creation?",
+            "What capabilities does MongoDB provide for AI?",
+            "How do SingleStore and watsonx.ai assist in generative AI applications?"
+        ],
+        "relevant_links": []
+    }
+}
