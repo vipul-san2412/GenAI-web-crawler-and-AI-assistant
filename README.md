@@ -60,7 +60,7 @@ The project was designed to tackle the challenge of efficiently gathering and pr
 * LLMs and GenAI tools played a vital role in our project. Langchain framework was used to implement the features of RAG.
  ## Contact
 
-Name: Shivam Mishra
+Name: Shivam Mishra <br>
 Email: shivam1602m@gmail.com
 
 PS : All the team members of the group have been added as the contributor.
