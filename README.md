@@ -7,6 +7,7 @@ This repository contains the product developed during the OOSC hackathon at Indi
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Technique](#technique)
 - [Backstory](#backstory)
 - [Learning](#learning)
 - [Contact](#contact)
@@ -43,6 +44,16 @@ The project was designed to tackle the challenge of efficiently gathering and pr
 ## Usage 
 
 * The product can be used to scan a website and look for potential questions that might arise with the solutions provided in the highlighted hyperlinks.
+
+## Technique
+* We wrote two functions to extract the hyperlinks and data of a website separately to keep track of the data and not lose track during the testing and validation phase of development.
+* Given a website URL, we used queue as a data structure to store the URLs and iterate over them. We extracted the webpage text information using web crawler like beautifulsoup.
+* The extracted text information was fed into Google Gemini Pro to provide the most relevant questions for the webpage. Here, the questions were limited to 10 in problem statement.
+* Later, Gemini was used answer the questions using the information present on the webpage as the base knowledge. This question-answer pair served us as the ground truth.
+* Later, given those questions and the hyperlinks queue, we extracted all the hyperlinks present in the webpage, used web crawler to extract the information and generated answers using Gemini using the webpage information as the ground knowledge.
+* Later, the generated answers were compared against the ground truth answers and a score was calculated. In order to avoid inaccurate results, we used cosine similarity of the answer embeddings and averaged them for a normalized score.
+* If the count of hyperlinks are lesser than 5, we inherently pass the relevance score of 0.3 to avoid any webpage being useless for the website context.
+* In the website URLs, questions and relevant solutions with titles are synchronously stored in the JSON file to present to the user.
 
 ## Backstory
 
