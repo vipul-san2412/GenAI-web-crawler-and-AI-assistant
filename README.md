@@ -1,5 +1,5 @@
 # GenAI-web-crawler-and-AI-assistant
-This repository contains the product developed during the OOSC hackathon at Indian Institute of Technology, Kanpur. The problem solved here was proposed by Overlayy in the GenAI domain.
+This repository contains the project developed during the OOSC hackathon at Indian Institute of Technology, Kanpur. The problem solved here was proposed by Overlayy in the GenAI domain.
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ The project was designed to tackle the challenge of efficiently gathering and pr
 
 ## Usage 
 
-* The product can be used to scan a website and look for potential questions that might arise with the solutions provided in the highlighted hyperlinks.
+* The project can be used to scan a website and look for potential questions that might arise with the solutions provided in the highlighted hyperlinks.
 
 ## Backstory
 
@@ -63,11 +63,11 @@ The project was designed to tackle the challenge of efficiently gathering and pr
 * Even though 12 hour seems less, a well planned approach backed by good team with mutual respect and great communication, no task felt difficult.
 * Initial 2 hours were spent only on rough sheets to understand the problem clearly and frame a rough outline about our upcoming 10 hour hackathon.
 * Next 4 hours were spent on scrapping the website, building the pipeline and debugging the programs, also keeping in mind the enhancements.
-* The last 6 hours were left for the iceberg ie LLMs and GenAI models. Langchain and RAG was a new term to us yet we managed to go through the articles, videos, vlogs and finally developed a fully furnished product.
+* The last 6 hours were left for the iceberg ie LLMs and GenAI models. Langchain and RAG was a new term to us yet we managed to go through the articles, videos, vlogs and finally developed a fully furnished project.
   
 ## Learning
 
-* The product involved working with JSON files, handling and manipulating them as and when required by the need of the flow.
+* The project involved working with JSON files, handling and manipulating them as and when required by the need of the flow.
 * We spend a lot of time working on websites, extracting information, classes, tags to not miss any important information.
 * LLMs and GenAI tools played a vital role in our project. Langchain framework was used to implement the features of RAG.
  ## Contact
