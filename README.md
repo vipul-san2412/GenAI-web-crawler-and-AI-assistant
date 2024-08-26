@@ -4,7 +4,7 @@ This repository contains the product developed during the OOSC hackathon at Indi
 ## Table of Contents
 
 - [Overview](#overview)
-- [Technique](#technique)
+- [Technique/Solution](#technique)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -22,7 +22,7 @@ This project was developed as part of the Overlayy problem statement proposed du
 
 The project was designed to tackle the challenge of efficiently gathering and processing data from web pages, leveraging the power of large language models (LLMs) and generative AI (GenAI) to extract meaningful insights and information. This solution aims to simplify data extraction and analysis from web content, making it easier to generate useful and relevant information from large datasets.
 
-## Technique
+## Technique/Solution
 
 * We wrote two functions to extract the hyperlinks and data of a website separately to keep track of the data and not lose track during the testing and validation phase of development.
 * Given a website URL, we used queue as a data structure to store the URLs and iterate over them. We extracted the webpage text information using web crawler like beautifulsoup.
