@@ -70,10 +70,3 @@ The project was designed to tackle the challenge of efficiently gathering and pr
 * The project involved working with JSON files, handling and manipulating them as and when required by the need of the flow.
 * We spend a lot of time working on websites, extracting information, classes, tags to not miss any important information.
 * LLMs and GenAI tools played a vital role in our project. Langchain framework was used to implement the features of RAG.
- ## Contact
-
-Name: Shivam Mishra <br>
-Email: shivam1602m@gmail.com
-
-PS : All the team members of the group have been added as the contributor.
- 
